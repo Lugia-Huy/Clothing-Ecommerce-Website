@@ -40,6 +40,7 @@ http://127.0.0.1:8000
 ```
 
 Login as customer: user@gmail.com - pass: 12345678
+
 Login as admin: admin@gmail.com - pass: 12345678
 
 ## License
