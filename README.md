@@ -39,7 +39,7 @@ This is a Laravel E-commerce Project with store's name is Sebastian.
 -   Reviews.
 ![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ0BwTc3Xlqtn3H0ta7UxxNNzszCENc5mJe5ks76UHAhNmTDTCnpaebNHG30JYtxIN-MAjGs90XxJQurKuM3SyRzUL7Fg=w2306-h1776)
 -   Create new product.
-![Dark mode]((https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORFV5MjuWRr5eayHUGxivrvXNYxHA3FvXMOHRmEMHZRjqKvvKGoGjzFb7HbyYp_Ak-Ljr4VJwRQQcpeAONEbbBWD7vRMA=w2306-h1776)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORFV5MjuWRr5eayHUGxivrvXNYxHA3FvXMOHRmEMHZRjqKvvKGoGjzFb7HbyYp_Ak-Ljr4VJwRQQcpeAONEbbBWD7vRMA=w2306-h1776)
 
 # **Features**
 
