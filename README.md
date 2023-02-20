@@ -48,9 +48,10 @@ This is a Laravel E-commerce Project with store's name is Sebastian.
 -   Sign in, log out.
 -   Follow items, unfollow items (Wishlist).
 -   Distinguish admin and normal user.
+-   Contact.
 -   Product:
     -   Search, filter.
-    -   Review, rating product.
+    -   Review, rating.
     -   Multiple image.
     -   Sizes, color.
     -   Gender.
