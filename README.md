@@ -10,36 +10,36 @@ This is a Laravel E-commerce Project with store's name is Sebastian.
 ###### _(User - Logged and not logged)_
 
 -   Home.
-![Dark mode](https://drive.google.com/file/d/15TUuD3wr_p8aYcXxrzgZksQR-sjgVsDj/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQUCRt_XDPcxU5MM4qJFfI7DCFnE71AD4mEha-eGxfyDnSK5m0DVFMq-S2hG0I_ZGqRBKCzBHk6cRLes0u_OCQm3mU-=w2306-h1776)
 -   Dashboard.
-![Dark mode](https://drive.google.com/file/d/1DMWwDAwJTepdg93P37Hv-PPU5dJCSXNa/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTZCR2qQWKRocgnd_xdgovDeiVyEyrDcE5s3ltnMUIahuyk3iWbIAFY3Y0-8Z6C2D6BLLwAoXX78qWXPVaFymJHlF_FTQ=w2306-h1776)
 -   Detail product.
 ![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR10m_UZxF2hNAG3npiAJiOSdEexBJ3OKh3h76FfGnVbNZ2TAu2pguuXanoEOWoGLqm_3q46f-XmjCrj4SAEO2j_Dn0Vw=w1920-h975)
 -   Reviews.
-![Dark mode](https://drive.google.com/file/d/1n8aHXJSlkumb6mZ22yxnxIowFXp-31qO/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORAMQYU5pMGKhbNruqsRgKGb9QNSWvxLseYQTGqYv8gzOkgf22ZMjdl-VTIObVI-_olzYtHSEOsYNOTmkXqCLQyLunQNA=w1920-h975)
 -   Cart.
-![Dark mode](https://drive.google.com/file/d/1ueSTtENDhDmpbvTwn1-sjnXMgbs7EhWx/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOThYIA6P6_OexRSCxBjHNUIOEtJHmoROp9asH7BXwaRyd1C20NQ5acJ9JZMlmyDF4Dzg5EcEn7veV72p84iHpWliw9T=w2306-h1776)
 -   Order history.
-![Dark mode](https://drive.google.com/file/d/1IneAYDCrvIFmPoHCMT9Mwv89HV9O3BWv/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORQ77QTlZPwhHGh72vozjpg-Rdk61GKg6ruhcNZ9CIdS95eFDH-rzwzMbLjz3_o8VGQLLYogUhC84v6ANrK0_BKUTmEeA=w2306-h1776)
 -   Payment.
-![Dark mode](https://drive.google.com/file/d/1fH4eId5gQLJdXWYROyzZ08RcvNhpQJoT/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTqDUgUcVcHIASuNKPmMsr4hZ9lUdC863qDUj9usmvwKcrvzPl51UitXRyQyofz03IgtkuwUiPkoyvpe4RdittXvvtGIA=w2306-h1776)
 
 ###### _(Admin Panel - Only with admin's accounts)_
 
 -   Dashboard.
-![Dark mode](https://drive.google.com/file/d/1TYEuQ3gyau3RZh9oV8DHi-TNd_qqmvA5/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR5bFxFoDQkpCSHJLvGZLERhevgvcNP6wjuk7MqCHdMuWYuaYnTPleTIfkSQ3KltEuTnyUoROp2QvKJYJFJU7b7zdMH=w2306-h1776)
 -   Users.
-![Dark mode](https://drive.google.com/file/d/1hWXOYEuxIbYZZh7foBi6YG4BqwdNdGjK/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTKtq5DsGsHUTcQG-S3PORsKUkY7rN2mB7nIosKhXawelsnlpzBF95Mx0jm2jiJc6ZGO2ipVA5_zs-YWWus98bmQjxOYg=w2306-h1776)
 -   Products.
-![Dark mode](https://drive.google.com/file/d/1qs0DWqLhCafMz0mQntqzTHZzPfrFQQfc/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQIA2QkJQeWlvmaEx--Gk1nR2uEs9mbAt6B-sRjwYly1qy3x3o4uknnLjApeFladdKmGHYvpAGi-wwcMPdNEtDUQFJ0BQ=w2306-h1776)
 -   Messages.
-![Dark mode](https://drive.google.com/file/d/10e9IkZykQ4JU0Xjat9DA-4FIam9R57Kh/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQu2L5kTVGCNIp0f0qzfR_ZHRThTt0NDWV3_EOxEfks9zZCNukoGCYijmZ3nN3gl1WijaMNhpniILOs-Nq3UNMc5REqeQ=w2306-h1776)
 -   Orders.
-![Dark mode](https://drive.google.com/file/d/10a1lrXMky4YEYUiYPIOpurJUVt1KWhoG/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ0BwTc3Xlqtn3H0ta7UxxNNzszCENc5mJe5ks76UHAhNmTDTCnpaebNHG30JYtxIN-MAjGs90XxJQurKuM3SyRzUL7Fg=w2306-h1776)
 -   Reviews.
-![Dark mode](https://drive.google.com/file/d/10a1lrXMky4YEYUiYPIOpurJUVt1KWhoG/view?usp=share_link)
+![Dark mode](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ0BwTc3Xlqtn3H0ta7UxxNNzszCENc5mJe5ks76UHAhNmTDTCnpaebNHG30JYtxIN-MAjGs90XxJQurKuM3SyRzUL7Fg=w2306-h1776)
 -   Create new product.
-![Dark mode](https://drive.google.com/file/d/1Gf6L66JFvRCtVzdTtigahiUyy28DESZX/view?usp=share_link)
+![Dark mode]((https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORFV5MjuWRr5eayHUGxivrvXNYxHA3FvXMOHRmEMHZRjqKvvKGoGjzFb7HbyYp_Ak-Ljr4VJwRQQcpeAONEbbBWD7vRMA=w2306-h1776)
 
 # **Features**
 
